@@ -23,5 +23,7 @@ Each release contains:
 
 ## License
 
-This repository is licensed under the [Apache License 2.0](LICENSE).
-The distributed tool binaries are subject to their own respective licenses.
+The distributed tool binaries are subject to their own respective licenses:
+
+- **tokei**: [MIT / Apache-2.0](https://github.com/XAMPPRocky/tokei#licence)
+- **gopls**: [BSD-3-Clause](https://pkg.go.dev/golang.org/x/tools/gopls?tab=licenses)
